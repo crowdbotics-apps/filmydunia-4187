@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT filmydunia_4187.wsgi:application
